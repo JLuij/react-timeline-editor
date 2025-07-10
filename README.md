@@ -1,3 +1,8 @@
+This fork simply has React 19 support and is here to build it, push it, and then pull it in a different React 19 project.
+- pnpm install
+- pnpm approve-builds (to select esbuild)
+- pnpm build
+
 # React Timeline Editor
 [![npm version](https://img.shields.io/npm/v/@xzdarcy/react-timeline-editor.svg?style=flat-square)](https://www.npmjs.com/package/@xzdarcy/react-timeline-editor)
 [![npm downloads](https://img.shields.io/npm/dm/@xzdarcy/react-timeline-editor.svg?style=flat-square)](https://www.npmjs.com/package/@xzdarcy/react-timeline-editor)
