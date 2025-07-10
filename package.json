@@ -61,5 +61,13 @@
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "yorkie": "^2.0.0"
+  },
+  "pnpm": {
+    "ignoredBuiltDependencies": [
+      "core-js",
+      "core-js-pure",
+      "esbuild",
+      "yorkie"
+    ]
   }
 }
